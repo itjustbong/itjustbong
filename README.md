@@ -11,6 +11,10 @@
   <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a> -->
 
+<a href = "https://itjustbong.club/">
+  My Page
+</a>
+
 <br /><br />
 
 Hi there, I'm Bong. I'm IN *Smart System Sofrware (SSU UNIV) *Miele Korea E-Commerce Software<br /><br />
