@@ -4,15 +4,15 @@
 <!-- <a href="https://www.linkedin.com/in/zamranxd/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> -->
-<a href="https://www.instagram.com/itjustbong/">
+<!-- <a href="https://www.instagram.com/itjustbong/">
   <img align="left" alt="Bong's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> -->
 <!-- <a href="https://www.facebook.com/ZamranxD">
   <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a> -->
 
 <a href = "https://itjustbong.club/">
-  My Page
+  My Page :: itjustbong.club
 </a>
 
 <br /><br />
