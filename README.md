@@ -17,17 +17,16 @@
 
 <br /><br />
 
-Hi there, I'm Bong. I'm IN *Smart System Sofrware (SSU UNIV) *Miele Korea E-Commerce Software *Dev of Start-Up(its)<br /><br />
+Hi there, I'm Bong. I'm IN *Smart System Sofrware (SSU UNIV) *Miele Korea E-Commerce Software *Dev of Start-Up(Social Ground)<br /><br />
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**<br /><br />
 
-- 👨🏽‍💻 I’m currently working as a Software Engineer at Miele Korea.<br />
-- 🗼 And I'm in charge of CTO in a platform-based StartUp.
+- 🗼 I'm in charge of CTO in a platform-based StartUp.
 - 🌱 I’m currently exploring Python, Javascript with a big interest in Web(React, NodeJS, MonogoDB ...) and HardWare. <br />
 - 🤔 My interests are Web, AI Robot and developing some useful and cool stuff xD<br />
-- 💼 I want to make a lot of money.<br />
-- 📫 Email me at [qhdgkdbs+git@gmail.com].<br /><br />
+- 💼 I want to make everything(changes, money etc..) <br />
+- 📫 Email me at [qhdgkdbs+git@gmail.com] or [seung-woo.bong@sground.me].<br /><br />
 
 <h4>**Languages and Tools:**  </h4><br />
 
