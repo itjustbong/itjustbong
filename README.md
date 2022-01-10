@@ -53,7 +53,7 @@ Co-found and Dev of a startup (Social Ground) <br />
 
 
 <br />**2022** <br />
-Development is underway (HanQ, Miele etc.) at Social Ground
+Development is underway at Social Ground
 
 
 
