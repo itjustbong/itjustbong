@@ -9,11 +9,11 @@
 ## WHO AM I❓
 Hi there, I'm Bong. I'm IN *AI convergence (SSU UNIV) and Co-founder & developer of Start-Up<br /><br />
 
-- 🗼 I'm in charge of DEV and Co-founder in a platform-based StartUp.
+- 🗼 I'm in charge of DEV in a platform-based StartUp.
 - 🌱 I’m currently exploring Python, Javascript with a big interest in Web(React, NodeJS, MonogoDB ...). <br />
 - 🤔 My interests are Web, AI Robot and developing some useful and cool stuff xD<br />
 - 💼 I want to make everything(changes, money etc..) <br />
-- 📫 Email me at [qhdgkdbs@gmail.com] or [seung-woo.bong@sground.me].
+- 📫 Email me at [qhdgkdbs@gmail.com].
 <br />
 
 ## 🧑🏻‍💻 Languages and Tools 
@@ -21,7 +21,7 @@ Hi there, I'm Bong. I'm IN *AI convergence (SSU UNIV) and Co-founder & developer
 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> 
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
 <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><br/> 
-I mainly use libraries and frameworks related to **React and NodeJS**.
+I mainly use libraries and frameworks related to **JS, React and NodeJS**.
 
 <br />
 
@@ -34,7 +34,7 @@ I am familiar with **MongoDB**, but I also work on projects using **SQL**.
 I use **AWS** to distribute the web.
 Route 53, EC2, S3, etc. are used.
 Recently, I am interested in **cloudflares**.
-(Sometimes, we use **GitHub** to distribute them.)
+(Sometimes, we use **GitHub** to deploy them.)
 
 <br />
 
@@ -53,7 +53,9 @@ Co-found and Dev of a startup (Social Ground) <br />
 
 
 <br />**2022** <br />
-Development is underway at Social Ground
+Development is underway at Social Ground <br />
+Plant-related startup developers
+
 
 
 
