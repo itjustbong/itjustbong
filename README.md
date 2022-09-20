@@ -53,8 +53,7 @@ Co-found and Dev of a startup (Social Ground) <br />
 
 
 <br />**2022** <br />
-Development is underway at Social Ground <br />
-Plant-related startup developers
+Web Developer
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqhdgkdbs)
