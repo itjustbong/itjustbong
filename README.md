@@ -39,22 +39,9 @@ Recently, I am interested in **cloudflares**.
 <br />
 
 
-## 🚀  My History
+## 🚀  포스팅
 
-<br />**2020** <br />
-Discharged from the military  <br />
-Making map-based SNS  <br />
-Joining MieleKorea as a part-timer
-
-<br />**2021** <br />
-Renewed as s developer at MieleKorea <br />
-Joined as a developer of a startup (Future Proof) <br />
-Co-found and Dev of a startup (Social Ground) <br />
-
-
-<br />**2022** <br />
-Web Developer
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qhdgkdbs)](https://velog.io/@qhdgkdbs)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqhdgkdbs)
 
