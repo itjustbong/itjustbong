@@ -11,8 +11,7 @@
 - [Miele Korea](https://www.miele.co.kr/) | SW Dev (20.12 ~ 21.8)
 - [Social Ground]() | SW Dev & Founder (21.03 ~ 22.07)
 - [inflearn](https://www.inflearn.com) | 웹 입문 TA (20.10 ~ 22.05)
-- [HanQ]() | FE BE Dev (22.02 ~ 22.08)
-- [Sendee]() | FE Dev (22.08 ~ 22.12) 
+- [HanQ]() & [Sendee]() | FE BE Dev (22.02 ~ 22.12)
 
 ## 🎁  포토폴리오
 [itjustbong.me - 준비 중](https://github.com/itjustbong)
