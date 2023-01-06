@@ -1,45 +1,25 @@
-<h1 title="hehehe"> Hey 👋, I'm Bong Seungwoo!</h1>
+## 🧑🏻‍💻  안녕하세요
+- 프론트엔드 개발자, 봉승우입니다.
 
-<br/>
+## 🛠  주요 기술 스택
+- JS | TS 및 관련 프레임워크
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+## 📈  경험
+- [특허](http://kpat.kipris.or.kr/kpat/biblioa.do?method=biblioFrame&start=biblio&searchFg=N&KeyWord=1020190116920&applno=1020190116920&Gubun=1&sCurrPage=1&searchFg=N&expression=1020190116920&openPageId=View01&isMyConcern=N&isMyFolder=N&config=/main/sharePage_KR.jsp,%20className=jeus_jspwork._main._700_sharePage_5fKR_5fjsp,%20jspUri=%27/main/sharePage_KR.jsp) | Beverage dispensing system  (2021.05.31)
 
-<br/><br/>
+- [Soongsil](https://ssu.ac.kr/) | AI 융합학부 (17.03 ~ 24.02) 
+- [Miele Korea](https://www.miele.co.kr/) | SW Dev (20.12 ~ 21.8)
+- [Social Ground]() | SW Dev & Founder (21.03 ~ 22.07)
+- [inflearn](https://www.inflearn.com) | 웹 입문 TA (20.10 ~ 22.05)
+- [HanQ]() | FE BE Dev (22.02 ~ 22.08)
+- [Sendee]() | FE Dev (22.08 ~ 22.12) 
 
-## WHO AM I❓
-Hi there, I'm Bong. I'm IN *AI convergence (SSU UNIV) and Co-founder & developer of Start-Up<br /><br />
+## 🎁  포토폴리오
+[itjustbong.me - 준비 중](https://github.com/itjustbong)
 
-- 🗼 I'm in charge of DEV in a platform-based StartUp.
-- 🌱 I’m currently exploring Python, Javascript with a big interest in Web(React, NodeJS, MonogoDB ...). <br />
-- 🤔 My interests are Web, AI Robot and developing some useful and cool stuff xD<br />
-- 💼 I want to make everything(changes, money etc..) <br />
-- 📫 Email me at [qhdgkdbs@gmail.com].
-<br />
+## 🚀  블로그 포스팅
 
-## 🧑🏻‍💻 Languages and Tools 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> 
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
-<img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><br/> 
-I mainly use libraries and frameworks related to **JS, React and NodeJS**.
-
-<br />
-
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> <br/>
-I am familiar with **MongoDB**, but I also work on projects using **SQL**.
-
-<br />
-
-<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><br/>
-I use **AWS** to distribute the web.
-Route 53, EC2, S3, etc. are used.
-Recently, I am interested in **cloudflares**.
-(Sometimes, we use **GitHub** to deploy them.)
-
-<br />
-
-
-## 🚀  포스팅
+[벨로그](https://velog.io/@qhdgkdbs)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qhdgkdbs)](https://velog.io/@qhdgkdbs)
 
