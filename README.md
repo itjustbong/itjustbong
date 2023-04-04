@@ -13,13 +13,9 @@
 - [inflearn](https://www.inflearn.com) | 웹 입문 TA (20.10 ~ 22.05)
 - [HanQ]() & [Sendee]() | FE BE Dev (22.02 ~ 22.12)
 
-## 🎁  포토폴리오
+## 🎁  사이트
 [itjustbong.me - 준비 중](https://github.com/itjustbong)
-
-## 🚀  블로그 포스팅
-
 [벨로그](https://velog.io/@qhdgkdbs)
-[itjustbong.me](https://www.itjustbong.me)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqhdgkdbs)
 
