@@ -14,8 +14,7 @@
 - [HanQ]() & [Sendee]() | FE BE Dev (22.02 ~ 22.12)
 
 ## 🎁  사이트
-[itjustbong.me - 준비 중](https://github.com/itjustbong)
-[벨로그](https://velog.io/@qhdgkdbs)
+[itjustbong.me](https://github.com/itjustbong)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqhdgkdbs)
 
