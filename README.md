@@ -1,20 +1,12 @@
-## 🧑🏻‍💻  안녕하세요
-- 프론트엔드 개발자, 봉승우입니다.
+## 🧑🏻‍💻  프론트엔드 개발자, 봉승우입니다
+- 숭실대학교 AI융합학부 (24.02 졸업예정)
 
-## 🛠  주요 기술 스택
+## 🛠  Tech Stack
 - JS | TS 및 관련 프레임워크
 
-## 📈  경험
-- [특허](http://kpat.kipris.or.kr/kpat/biblioa.do?method=biblioFrame&start=biblio&searchFg=N&KeyWord=1020190116920&applno=1020190116920&Gubun=1&sCurrPage=1&searchFg=N&expression=1020190116920&openPageId=View01&isMyConcern=N&isMyFolder=N&config=/main/sharePage_KR.jsp,%20className=jeus_jspwork._main._700_sharePage_5fKR_5fjsp,%20jspUri=%27/main/sharePage_KR.jsp) | Beverage dispensing system  (2021.05.31)
-
-- [Soongsil](https://ssu.ac.kr/) | AI 융합학부 (17.03 ~ 24.02) 
-- [Miele Korea](https://www.miele.co.kr/) | SW Dev (20.12 ~ 21.8)
-- [Social Ground]() | SW Dev & Founder (21.03 ~ 22.07)
-- [inflearn](https://www.inflearn.com) | 웹 입문 TA (20.10 ~ 22.05)
-- [HanQ]() & [Sendee]() | FE BE Dev (22.02 ~ 22.12)
-
-## 🎁  사이트
-[itjustbong.me](https://github.com/itjustbong)
+## 🎁 More Info
+- [itjustbong.me](https://itjustbong.me) <br />
+- [이력서](https://itjustbong.me/resume)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqhdgkdbs)
 
