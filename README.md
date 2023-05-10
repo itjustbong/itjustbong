@@ -11,7 +11,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqhdgkdbs)
 
 ## 🌱 My Github 
-![itjustbong](https://github-readme-stats.vercel.app/api?username=itjustbong&show_icons=true)
+![itjustbong](https://github-readme-stats.vercel.app/api?username=itjustbong&count_private=true)
 
 
 
