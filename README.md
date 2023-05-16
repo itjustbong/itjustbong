@@ -8,7 +8,7 @@
 - [itjustbong.me](https://itjustbong.me) <br />
 - [이력서](https://itjustbong.me/resume)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqhdgkdbs)
+![Hits](https://visitor-counter.qhdgkdbs.workers.dev/visit?url=itjustbong.me&type=svg&text=itjustbong%20%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%B0%A9%EB%AC%B8%EC%9E%90%20%EC%88%98&bgcolor=rgb(10,100,10)&total=true)
 
 ## 🌱 My Github 
 ![itjustbong](https://github-readme-stats.vercel.app/api?username=itjustbong&count_private=true)
