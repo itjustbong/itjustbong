@@ -8,7 +8,7 @@
 - [itjustbong.me](https://itjustbong.me) <br />
 - [이력서](https://itjustbong.me/resume)
 
-![Hits-git](https://visitor-counter.qhdgkdbs.workers.dev/visit?url=github/itjustbong&type=svg&text=itjustbong%20%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%B0%A9%EB%AC%B8%EC%9E%90%20%EC%88%98&bgcolor=rgb(10,100,12)&total=true)
+![Hits-git](https://counter.itjustbong.workers.dev/visit?url=github/itjustbong&type=svg&text=itjustbong%20%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%B0%A9%EB%AC%B8%EC%9E%90%20%EC%88%98&bgcolor=rgb(10,100,12)&total=true)
 
 ## 🌱 My Github 
 ![itjustbong](https://github-readme-stats.vercel.app/api?username=itjustbong&count_private=true)
