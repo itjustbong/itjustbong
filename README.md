@@ -1,14 +1,14 @@
 ## 🧑🏻‍💻  프론트엔드 개발자, 봉승우입니다
 - 숭실대학교 AI융합학부 (24.02 졸업예정)
 
-### 🛠  Tech Stack
+## 🛠  Tech Stack
 - JS | TS 및 관련 프레임워크
 
-### 🎁 More Info
+## 🎁 More Info
 - [itjustbong.me](https://itjustbong.me) <br />
 - [이력서](https://itjustbong.me/resume)
 
-### 🙋🏻‍♂️ Experiences
+## 🙋🏻‍♂️ Experiences
 
 <b>2023</b>
 - Google Solution Challenge 2023 [SSUNG DELIVERY] Front-End 개발
@@ -33,7 +33,7 @@
 - 숭실대학교 교내 경진대회 장려상  
 - 메이커페어 2018 참여 및 전시 (빵 터지는 대화)
 
-### 📝 Article & ETC
+## 📝 Article & ETC
 - Method For Providing Local Advertisement Including Advertiser Business Place [링크](http://kpat.kipris.or.kr/kpat/biblioa.do?method=biblioFrame&start=biblio&searchFg=N&KeyWord=1020210120973&applno=1020210120973&Gubun=1&sCurrPage=1&searchFg=N&expression=1020210120973&openPageId=View01&isMyConcern=N&isMyFolder=N&config=/main/sharePage_KR.jsp,%20className=jeus_jspwork._main._700_sharePage_5fKR_5fjsp,%20jspUri=%27/main/sharePage_KR.jsp)
 - Mixed Beverage Manufacturing and Ordering Service Delivery System [링크](http://kpat.kipris.or.kr/kpat/biblioa.do?method=biblioFrame&start=biblio&searchFg=N&KeyWord=1020200034229&applno=1020200034229&Gubun=1&sCurrPage=1&searchFg=N&expression=1020200034229&openPageId=View01&isMyConcern=N&isMyFolder=N&config=/main/sharePage_KR.jsp,%20className=jeus_jspwork._main._700_sharePage_5fKR_5fjsp,%20jspUri=%27/main/sharePage_KR.jsp)
 - Beverage Dispensing System [링크](http://kpat.kipris.or.kr/kpat/biblioa.do?method=biblioFrame&start=biblio&searchFg=N&KeyWord=1020190116920&applno=1020190116920&Gubun=1&sCurrPage=1&searchFg=N&expression=1020190116920&openPageId=View01&isMyConcern=N&isMyFolder=N&config=/main/sharePage_KR.jsp,%20className=jeus_jspwork._main._700_sharePage_5fKR_5fjsp,%20jspUri=%27/main/sharePage_KR.jsp)
@@ -43,7 +43,7 @@
 
 
 
-### 🌱 My Github 
+## 🌱 My Github 
 ![itjustbong](https://github-stats-git-main-qhdgkdbs.vercel.app/api?username=itjustbong)
 
 ![Hits-git](https://counter.itjustbong.workers.dev/visit?url=github/itjustbong&type=svg&text=itjustbong%20%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%B0%A9%EB%AC%B8%EC%9E%90%20%EC%88%98&bgcolor=rgb(10,100,12)&total=true)
