@@ -13,6 +13,7 @@
 <b>2023</b>
 - Google Solution Challenge 2023 [SSUNG DELIVERY] Front-End 개발
 - UMC IOS Part 멤버
+- 숭실대학교 소프트웨어 공모전 총장상 수상
 
 <b>2022</b>
 - Google Developer Student Clubs Soongsil Web/Mobile 멤버
