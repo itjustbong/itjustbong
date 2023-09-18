@@ -44,7 +44,7 @@
 
 
 ## 🌱 My Github 
-![itjustbong](https://github-stats-git-main-qhdgkdbs.vercel.app/api?username=itjustbong)
+![itjustbong](https://github-readme-stats-gold-chi.vercel.app/api?username=itjustbong)
 
 ![Hits-git](https://counter.itjustbong.workers.dev/visit?url=github/itjustbong&type=svg&text=itjustbong%20%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%B0%A9%EB%AC%B8%EC%9E%90%20%EC%88%98&bgcolor=rgb(10,100,12)&total=true)
 
